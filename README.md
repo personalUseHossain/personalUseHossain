@@ -52,6 +52,9 @@ I’m a **Full Stack Web Developer** currently studying **Computer Science** and
 <a href="https://redis.io/" target="_blank" rel="noreferrer">
   <img src="https://www.vectorlogo.zone/logos/redis/redis-icon.svg" alt="Redis" width="40" height="40"/>
 </a>  
+<a href="https://docker.com/" target="_blank" rel="noreferrer">
+  <img src="https://www.vectorlogo.zone/logos/docker/docker-official.svg" alt="Docker" width="40" height="40"/>
+</a>  
 <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
   <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="40" height="40"/>
 </a>  
