@@ -70,8 +70,3 @@ I’m a **Full Stack Web Developer** currently studying **Computer Science** and
 <a href="https://ollama.com/" target="_blank" rel="noreferrer">
   <img src="https://raw.githubusercontent.com/loganmarchione/homelab-svg-assets/fb60808fec18d4294aecb2d628b71551c1d7dad7/assets/ollama-black.svg" alt="Ollama" width="40" height="40"/>
 </a>  
-
-
-* * *
-
-## 💻 My projects
