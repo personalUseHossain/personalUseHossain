@@ -11,7 +11,7 @@ I’m a **Full Stack Web Developer** currently studying **Computer Science** and
 
 ## 🚀 About Me  
 - **📚 Education:** Computer Science student @ **GAI Bangladesh**  
-- **🌟 Current Work:** Innovating at **ZovoTeam** & **DealPay**  
+- **🌟 Current Work:** Innovating at **Zovozip**, **ZovoTeam** & **DealPay**  
 - **⚡ Interests:** Full Stack Web & App Development, AI, and DevOps  
 
 
