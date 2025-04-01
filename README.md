@@ -3,7 +3,7 @@
 Muhammad Hossain
 =========================================
 
-**`Student | Full Stack Web Developer | Python Developer | App Developer`**
+**`Full Stack | Python | App Developer | Student `**
 
 # Hi there! 👋 I'm Hossain  
 
