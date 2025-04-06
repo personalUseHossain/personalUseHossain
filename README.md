@@ -69,7 +69,7 @@ I’m a **Full Stack Web Developer** currently studying **Computer Science** and
   <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="Selenium" width="40" height="40"/>
 </a>  
 <a href="https://ollama.com/" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/loganmarchione/homelab-svg-assets/fb60808fec18d4294aecb2d628b71551c1d7dad7/assets/ollama-black.svg" alt="Ollama" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/loganmarchione/homelab-svg-assets/fb60808fec18d4294aecb2d628b71551c1d7dad7/assets/ollama-white.svg" alt="Ollama" width="40" height="40"/>
 </a>  
 <a href="https://linux.org/" target="_blank" rel="noreferrer">
   <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/linux.png" alt="Linux" width="40" height="40"/>
