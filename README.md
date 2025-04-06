@@ -5,8 +5,6 @@ Muhammad Hossain
 
 **`Full Stack | Python | App Developer | Student `**
 
-# Hi there! 👋 I'm Hossain  
-
 I’m a **Full Stack Web Developer** currently studying **Computer Science** and continuously learning new things. I’m driven by **code** and **creativity** 💻.  
 
 ## 🚀 About Me  
