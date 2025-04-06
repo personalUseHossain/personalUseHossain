@@ -48,10 +48,10 @@ I’m a **Full Stack Web Developer** currently studying **Computer Science** and
   <img src="https://www.vectorlogo.zone/logos/mysql/mysql-official.svg" alt="Ollama" width="40" height="40"/>
 </a>  
 <a href="https://redis.io/" target="_blank" rel="noreferrer">
-  <img src="https://www.vectorlogo.zone/logos/redis/redis-icon.svg" alt="Redis" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/redis.png" alt="Redis" width="40" height="40"/>
 </a>  
 <a href="https://docker.com/" target="_blank" rel="noreferrer">
-  <img src="https://www.vectorlogo.zone/logos/docker/docker-official.svg" alt="Docker" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/docker.png" alt="Docker" width="40" height="40"/>
 </a>  
 <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
   <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="40" height="40"/>
@@ -70,4 +70,7 @@ I’m a **Full Stack Web Developer** currently studying **Computer Science** and
 </a>  
 <a href="https://ollama.com/" target="_blank" rel="noreferrer">
   <img src="https://raw.githubusercontent.com/loganmarchione/homelab-svg-assets/fb60808fec18d4294aecb2d628b71551c1d7dad7/assets/ollama-black.svg" alt="Ollama" width="40" height="40"/>
+</a>  
+<a href="https://linux.org/" target="_blank" rel="noreferrer">
+  <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/linux.png" alt="Linux" width="40" height="40"/>
 </a>  
